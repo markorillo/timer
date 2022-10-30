@@ -1,2 +1,2 @@
-# timer
-Simple countdown timer
+# Timer
+Simple timer with fixed 5:00 minute countdown.
